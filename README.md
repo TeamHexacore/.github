@@ -1,6 +1,6 @@
 # Welcome to **Hexacore**
 
-![Hexacore Banner](https://via.placeholder.com/1000x300.png?text=Your+Banner+Here)
+
 
 ### Empowering Enterprises with Scalable and Innovative Solutions 🚀
 
