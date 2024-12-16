@@ -1,5 +1,6 @@
 # Welcome to **Hexacore**
 
+![ezgif-2-b007e35301](https://github.com/user-attachments/assets/fc3d9e50-2a29-4f37-90e7-c41864a61064)
 
 
 ### Empowering Enterprises with Scalable and Innovative Solutions 🚀
